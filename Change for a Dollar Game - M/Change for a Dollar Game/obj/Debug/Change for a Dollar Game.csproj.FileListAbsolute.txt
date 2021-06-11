@@ -1,0 +1,18 @@
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.exe.config
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.exe
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.pdb
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csprojAssemblyReference.cache
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\MainWindow.g.cs
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\App.g.cs
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game_MarkupCompile.cache
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game_MarkupCompile.lref
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\MainWindow.baml
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.g.resources
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change_for_a_Dollar_Game.Properties.Resources.resources
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csproj.GenerateResource.cache
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csproj.CoreCompileInputs.cache
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.exe
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.pdb
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\App.baml
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\How to Play.g.cs
+C:\Users\Mehul\source\repos\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\How to Play.baml
